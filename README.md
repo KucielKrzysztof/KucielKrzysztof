@@ -2,7 +2,7 @@
 <p align="center">
 <img src="assets/car.gif">
 </p>
-<div style="text-align:center; width:100%; margin:auto">
+<div align="center">
 <img src="https://kucielstats.vercel.app/api/top-langs/?username=KucielKrzysztof&layout=compact&theme=dracula">
 </div>
 
