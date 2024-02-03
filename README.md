@@ -1,12 +1,13 @@
 <h1 align="center">Hi there 👋 My name is Chris</h1>
 
 ```python
-                      >print("Hellow World")
+>print("Hellow World")
 ```
 
-<pre>
+<pre style="text-align:center">
   Hi, my name is Chris. Welcome to my github profile.
-  I have recently started my coding adventure. There are still                many things I need to learn.
+  I have recently started my coding adventure.
+  There are still many things I need to learn.
 </pre>
 <table align="center">
   <tr>
