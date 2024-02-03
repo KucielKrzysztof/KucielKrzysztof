@@ -11,7 +11,7 @@
                                         There are still many things I need to learn.
 </pre>
 <br>
-<table align="center">
+<table align="center" style="border:none;">
   <tr>
     <td>
       <img src="https://kucielstats.vercel.app/api/top-langs/?username=KucielKrzysztof&layout=compact&theme=dracula" alt="top langs" style="width: 400px;">
