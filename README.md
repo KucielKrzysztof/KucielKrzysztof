@@ -6,7 +6,7 @@
 
 <br>
 <pre>
-                                        Hi, my name is Chris. Welcome to my github profile.
+                                    Hi, my name is Chris. Welcome to my github profile.
                                         I have recently started my coding adventure.
                                         There are still many things I need to learn.
 </pre>
