@@ -1,6 +1,10 @@
-# Hi there 👋 My name is Chris
-
-![img](/assets/car.gif)
+<h1 style="text-align:center;">Hi there 👋 My name is Chris</h1>
+<p align="center">
+<img src="assets/car.gif">
+</p>
+<div align="center">
+<img src="https://kucielstats.vercel.app/api/top-langs/?username=KucielKrzysztof&layout=compact&theme=dracula">
+</div>
 
 <!--
 **KucielKrzysztof/KucielKrzysztof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
