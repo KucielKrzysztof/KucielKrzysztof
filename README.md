@@ -5,10 +5,10 @@
 >print("Hellow World")
 ```
 
-<pre>
-                                               Welcome to my github profile.
-                                        I have recently started my coding adventure.
-                                        There are still many things I need to learn.
+<pre align="center">
+Welcome to my github profile.
+I have recently started my coding adventure.
+There are still many things I need to learn.
 </pre>
 <br>
 <table align="center" >
