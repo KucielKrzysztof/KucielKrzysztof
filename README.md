@@ -27,12 +27,12 @@ There are still many things I need to learn.
 </p>
 
 <!-- # test test
-
+aaa
 ## test test -->
 <h2 align="center">Currently learning:</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/html-%23ff6e96?style=for-the-badge&logo=html5&logoColor=%23282a36" alt="placeboalder">
-<img src="https://img.shields.io/badge/css-%23ff6e96?style=for-the-badge&logo=css3&logoColor=%23282a36" alt="placeboalder">
+<img src="https://img.shields.io/badge/css-%23ff6e96?style=for-the-badge&logo=css3&logoColor=%23282a36" alt="placeboalder"> 
 <img src="https://img.shields.io/badge/javascript-%23ff6e96?style=for-the-badge&logo=javascript&logoColor=%23282a36
 " alt="placeboalder">
 <img src="https://img.shields.io/badge/django-%23ff6e96?style=for-the-badge&logo=django&logoColor=%23282a36" alt="placeboalder">
