@@ -33,7 +33,6 @@ aaaa
 <p align="center">
 <img src="https://img.shields.io/badge/html-%23ff6e96?style=for-the-badge&logo=html5&logoColor=%23282a36" alt="placeboalder">
 <img src="https://img.shields.io/badge/css-%23ff6e96?style=for-the-badge&logo=css3&logoColor=%23282a36" alt="placeboalder"> 
-<img src="https://img.shields.io/badge/javascript-%23ff6e96?style=for-the-badge&logo=javascript&logoColor=%23282a36
-" alt="placeboalder">
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="placeboalder">
 <img src="https://img.shields.io/badge/django-%23ff6e96?style=for-the-badge&logo=django&logoColor=%23282a36" alt="placeboalder">
 </p>
