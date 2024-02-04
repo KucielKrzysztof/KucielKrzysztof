@@ -37,6 +37,7 @@ aaaa
 <img src="https://img.shields.io/badge/vue.js-%23ff6e96?style=for-the-badge&logo=vue.js&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/javascript-%23ff6e96?style=for-the-badge&logo=javascript&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/django-%23ff6e96?style=for-the-badge&logo=django&logoColor=%23282a36" >
+ <img src="https://img.shields.io/badge/nodejs-%23ff6e96?style=for-the-badge&logo=nodedotjs&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/postgresql-%23ff6e96?style=for-the-badge&logo=postgresql&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/docker-%23ff6e96?style=for-the-badge&logo=docker&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/sass-%23ff6e96?style=for-the-badge&logo=sass&logoColor=%23282a36" >
