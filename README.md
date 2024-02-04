@@ -43,6 +43,6 @@ aaaa
 " alt="placeholder">
 <img src="https://img.shields.io/badge/figma-%23ff6e96?style=for-the-badge&logo=figma&logoColor=%23282a36
 " alt="placeholder">
-<img src="https://img.shields.io/badge/Sass-%23ff6e96?style=for-the-badge&logo=Sass&logoColor=%23282a36
+<img src="https://img.shields.io/badge/sass-%23ff6e96?style=for-the-badge&logo=sass&logoColor=%23282a36
 " alt="placeholder">
 </p>
