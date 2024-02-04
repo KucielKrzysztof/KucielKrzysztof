@@ -6,9 +6,10 @@
 ```
 
 <pre align="center">
-Welcome to my github profile.
-I have recently started my coding adventure.
-There are still many things I need to learn.
+Welcome to my github profile
+I have recently started my
+ "Coding Adventure"
+I am eager to learn
 </pre>
 <br>
 <table align="center" >
@@ -33,6 +34,15 @@ aaaa
 <p align="center">
 <img src="https://img.shields.io/badge/html-%23ff6e96?style=for-the-badge&logo=html5&logoColor=%23282a36" alt="placeboalder">
 <img src="https://img.shields.io/badge/css-%23ff6e96?style=for-the-badge&logo=css3&logoColor=%23282a36" alt="placeboalder"> 
+<img src="https://img.shields.io/badge/vue.js-%23ff6e96?style=for-the-badge&logo=vue.js&logoColor=%23282a36" alt="placeboalder">
 <img src="https://img.shields.io/badge/javascript-%23ff6e96?style=for-the-badge&logo=javascript&logoColor=%23282a36" alt="placeboalder">
 <img src="https://img.shields.io/badge/django-%23ff6e96?style=for-the-badge&logo=django&logoColor=%23282a36" alt="placeboalder">
+<img src="https://img.shields.io/badge/postgresql-%23ff6e96?style=for-the-badge&logo=postgresql&logoColor=%23282a36
+" alt="placeholder">
+<img src="https://img.shields.io/badge/docker-%23ff6e96?style=for-the-badge&logo=docker&logoColor=%23282a36
+" alt="placeholder">
+<img src="https://img.shields.io/badge/figma-%23ff6e96?style=for-the-badge&logo=figma&logoColor=%23282a36
+" alt="placeholder">
+<img src="https://img.shields.io/badge/Sass-%23ff6e96?style=for-the-badge&logo=Sass&logoColor=%23282a36
+" alt="placeholder">
 </p>
