@@ -24,7 +24,7 @@ I am eager to learn
 </table>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=KucielKrzysztof&theme=dracula" alt="streak stats">
+<a href="https://git.io/streak-stats"><img src="https://github-kuciel-streak-stats.vercel.app?user=KucielKrzysztof&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <!-- # test test
