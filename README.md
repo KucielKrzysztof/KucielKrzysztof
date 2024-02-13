@@ -24,7 +24,7 @@ I am eager to learn
 </table>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-kuciel-streak-stats.vercel.app?user=KucielKrzysztof&theme=dracula" alt="GitHub Streak" /></a>
+<img src="https://github-kuciel-streak-stats.vercel.app?user=KucielKrzysztof&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <!-- # test test
