@@ -21,18 +21,20 @@ Welcome to my github profile
 </table>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=KucielKrzysztof&theme=dracula" alt="streak stats">
+<img src="https://github-kuciel-streak-stats.vercel.app?user=KucielKrzysztof&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <!-- # test test
 aaaa
 ## test test -->
-<h2 align="center">Currently learning:</h2>
+<h2 align="center">Currently playing with:</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/html-%23ff6e96?style=for-the-badge&logo=html5&logoColor=%23282a36">
 <img src="https://img.shields.io/badge/css-%23ff6e96?style=for-the-badge&logo=css3&logoColor=%23282a36"> 
 <img src="https://img.shields.io/badge/vue.js-%23ff6e96?style=for-the-badge&logo=vue.js&logoColor=%23282a36" >
+ <img src="https://img.shields.io/badge/react-%23ff6e96?style=for-the-badge&logo=react&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/javascript-%23ff6e96?style=for-the-badge&logo=javascript&logoColor=%23282a36" >
+ <img src="https://img.shields.io/badge/python-%23ff6e96?style=for-the-badge&logo=python&logoColor=%23282a36">
 <img src="https://img.shields.io/badge/django-%23ff6e96?style=for-the-badge&logo=django&logoColor=%23282a36" >
  <img src="https://img.shields.io/badge/nodejs-%23ff6e96?style=for-the-badge&logo=nodedotjs&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/postgresql-%23ff6e96?style=for-the-badge&logo=postgresql&logoColor=%23282a36" >
