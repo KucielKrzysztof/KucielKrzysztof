@@ -7,9 +7,6 @@
 
 <pre align="center">
 Welcome to my github profile
-I have recently started my
- "Coding Adventure"
-I am eager to learn
 </pre>
 <br>
 <table align="center" >
