@@ -27,7 +27,7 @@ Welcome to my github profile
 <!-- # test test
 aaaa
 ## test test -->
-<h2 align="center">Currently playing with:</h2>
+<h2 align="center">Technologies I've worked with:</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/html-%23ff6e96?style=for-the-badge&logo=html5&logoColor=%23282a36">
 <img src="https://img.shields.io/badge/css-%23ff6e96?style=for-the-badge&logo=css3&logoColor=%23282a36"> 
