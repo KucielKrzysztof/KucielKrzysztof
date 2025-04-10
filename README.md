@@ -37,6 +37,7 @@ aaaa
   <img src="https://img.shields.io/badge/express-%23ff6e96?style=for-the-badge&logo=express&logoColor=%23282a36%22" >
   <img src="https://img.shields.io/badge/postgresql-%23ff6e96?style=for-the-badge&logo=postgresql&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/vue.js-%23ff6e96?style=for-the-badge&logo=vue.js&logoColor=%23282a36" >
+<img src="https://img.shields.io/badge/firebase-%23ff6e96?style=for-the-badge&logo=firebase&logoColor=%23282a36" >
  <img src="https://img.shields.io/badge/python-%23ff6e96?style=for-the-badge&logo=python&logoColor=%23282a36">
 <img src="https://img.shields.io/badge/django-%23ff6e96?style=for-the-badge&logo=django&logoColor=%23282a36" >
 <img src="https://img.shields.io/badge/docker-%23ff6e96?style=for-the-badge&logo=docker&logoColor=%23282a36" >
