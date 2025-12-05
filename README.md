@@ -12,10 +12,10 @@ Welcome to my github profile
 <table align="center" >
   <tr>
     <td>
-      <img src="https://kucielstats.vercel.app/api/top-langs/?username=KucielKrzysztof&layout=compact&theme=dracula" alt="top langs" style="width: 400px;">
+      <img src="https://kucielstats.vercel.app/api/top-langs/?username=KucielKrzysztof&layout=compact&theme=dracula" alt="top langs" style="width: 400px; ">
     </td>
     <td>
-      <img src="assets/car.gif" style="width: 400px;">
+      <img src="assets/car.gif" style="width: 360px; border: 2px solid; border-radius:7px">
     </td>
   </tr>
 </table>
@@ -27,8 +27,10 @@ Welcome to my github profile
 <!-- # test test
 aaaa
 ## test test -->
-<h2 >Technologies I've worked with:</h2>
-<div >
+
+## Technologies I've worked with:
+
+<div>
 <img alt="HTML" src="https://img.shields.io/badge/html-FF79C6?style=for-the-badge&logo=html5&logoColor=282A36">
 <img alt="CSS" src="https://img.shields.io/badge/css-FF79C6?style=for-the-badge&logo=css&logoColor=282A36">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-FF79C6?style=for-the-badge&logo=javascript&logoColor=282A36">
@@ -58,6 +60,8 @@ aaaa
 <img alt="Figma" src="https://img.shields.io/badge/figma-FF79C6?style=for-the-badge&logo=figma&logoColor=282A36">
 
 </div>
+
+---
 
 ### Contact:
 
